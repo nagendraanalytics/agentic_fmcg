@@ -1,0 +1,59 @@
+rules:
+
+  # -----------------------------
+  # Stockout Risk – High Frequency Items
+  # -----------------------------
+  - name: high_stockout_high_frequency
+    rule_type: inventory_risk
+    applies_to: all_categories
+    condition:
+      stockout_rate_gt: 0.1
+    outputs:
+      risk_flag: High Stockout Risk
+      behavior_tag: High Frequency
+      priority_group: High Replenishment Priority
+    action:
+      service_level: 0.98
+
+  # -----------------------------
+  # Promotion Buffer Rule
+  # -----------------------------
+  - name: promo_buffer
+    rule_type: promotion_adjustment
+    applies_to: all_categories
+    condition:
+      promo_flag: true
+    outputs:
+      risk_flag: Promo-driven Risk
+      priority_group: Promotional Priority
+      behavior_tag: Promotion Sensitive
+    action:
+      safety_stock_multiplier: 1.5
+
+  # -----------------------------
+  # Forecast Volatility Rule
+  # -----------------------------
+  - name: high_forecast_error
+    rule_type: forecast_risk
+    applies_to: all_categories
+    condition:
+      forecast_error_pct_gt: 15
+    outputs:
+      risk_flag: Forecast Volatility
+      priority_group: Planning Attention Required
+    action:
+      forecast_adjustment: smooth
+
+  # -----------------------------
+  # Low Inventory Coverage Rule
+  # -----------------------------
+  - name: low_inventory_coverage
+    rule_type: inventory_risk
+    applies_to: all_categories
+    condition:
+      days_of_cover_lt: 5
+    outputs:
+      risk_flag: Low Inventory Coverage
+      priority_group: Immediate Replenishment
+    action:
+      expedite_replenishment: true

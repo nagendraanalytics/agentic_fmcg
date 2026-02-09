@@ -1,0 +1,301 @@
+product_id,category,mrp,cost_price
+1,Beverages,174,68
+2,Beverages,246,88
+3,Snacks,161,81
+4,Pulses,99,207
+5,Rice,281,197
+6,Rice,211,97
+7,Home Care,196,136
+8,Pulses,120,139
+9,Biscuits,231,222
+10,Snacks,48,156
+11,Biscuits,68,181
+12,Biscuits,155,95
+13,Biscuits,202,246
+14,Pulses,170,54
+15,Biscuits,271,20
+16,Beverages,249,59
+17,Home Care,155,83
+18,Home Care,87,169
+19,Atta,177,79
+20,Sugar,30,83
+21,Rice,219,112
+22,Rice,220,91
+23,Sugar,146,30
+24,Pulses,163,124
+25,Edible Oil,87,248
+26,Pulses,73,33
+27,Rice,202,79
+28,Rice,189,49
+29,Sugar,202,54
+30,Biscuits,178,232
+31,Pulses,109,184
+32,Dairy,242,24
+33,Sugar,232,102
+34,Beverages,281,142
+35,Rice,258,97
+36,Sugar,193,173
+37,Pulses,256,81
+38,Rice,176,151
+39,Edible Oil,49,108
+40,Sugar,76,61
+41,Snacks,262,108
+42,Rice,43,165
+43,Pulses,172,59
+44,Atta,30,91
+45,Dairy,83,58
+46,Personal Care,288,123
+47,Biscuits,173,33
+48,Personal Care,41,51
+49,Pulses,253,198
+50,Beverages,185,144
+51,Beverages,37,185
+52,Atta,151,116
+53,Biscuits,193,42
+54,Snacks,119,82
+55,Atta,165,162
+56,Home Care,215,244
+57,Personal Care,207,172
+58,Atta,57,164
+59,Personal Care,249,244
+60,Rice,70,213
+61,Beverages,257,225
+62,Rice,221,72
+63,Dairy,174,123
+64,Home Care,230,123
+65,Biscuits,241,198
+66,Snacks,249,58
+67,Personal Care,269,198
+68,Snacks,75,217
+69,Personal Care,64,153
+70,Pulses,282,86
+71,Atta,111,154
+72,Dairy,285,198
+73,Beverages,226,219
+74,Personal Care,39,61
+75,Snacks,271,211
+76,Dairy,280,34
+77,Edible Oil,34,130
+78,Edible Oil,148,176
+79,Rice,94,52
+80,Beverages,175,241
+81,Pulses,253,174
+82,Snacks,268,183
+83,Atta,206,176
+84,Atta,296,57
+85,Snacks,92,204
+86,Biscuits,246,116
+87,Pulses,206,248
+88,Dairy,127,174
+89,Personal Care,134,202
+90,Biscuits,128,52
+91,Personal Care,35,215
+92,Personal Care,226,105
+93,Biscuits,162,85
+94,Rice,288,29
+95,Edible Oil,52,24
+96,Personal Care,82,142
+97,Biscuits,194,93
+98,Biscuits,231,116
+99,Home Care,112,137
+100,Sugar,174,57
+101,Rice,114,160
+102,Beverages,107,178
+103,Sugar,30,66
+104,Sugar,80,247
+105,Snacks,202,128
+106,Edible Oil,234,235
+107,Biscuits,289,199
+108,Edible Oil,63,203
+109,Pulses,124,34
+110,Snacks,101,176
+111,Beverages,68,155
+112,Edible Oil,183,24
+113,Atta,279,176
+114,Personal Care,191,66
+115,Pulses,147,87
+116,Rice,288,95
+117,Beverages,297,192
+118,Pulses,83,149
+119,Personal Care,265,174
+120,Snacks,251,114
+121,Personal Care,280,134
+122,Sugar,141,183
+123,Personal Care,284,55
+124,Sugar,236,45
+125,Snacks,258,62
+126,Dairy,95,46
+127,Sugar,104,88
+128,Rice,132,167
+129,Personal Care,221,30
+130,Personal Care,281,93
+131,Rice,255,123
+132,Atta,127,57
+133,Biscuits,278,153
+134,Dairy,195,219
+135,Beverages,59,42
+136,Sugar,276,66
+137,Rice,135,109
+138,Snacks,80,65
+139,Sugar,110,126
+140,Biscuits,162,159
+141,Snacks,167,237
+142,Pulses,213,160
+143,Personal Care,98,123
+144,Pulses,63,209
+145,Sugar,291,229
+146,Biscuits,82,236
+147,Dairy,234,244
+148,Sugar,155,130
+149,Rice,264,123
+150,Edible Oil,72,79
+151,Sugar,269,190
+152,Personal Care,140,223
+153,Personal Care,278,119
+154,Sugar,180,87
+155,Snacks,212,152
+156,Edible Oil,124,139
+157,Rice,37,56
+158,Sugar,213,91
+159,Snacks,224,146
+160,Personal Care,224,125
+161,Personal Care,184,111
+162,Biscuits,122,50
+163,Sugar,189,141
+164,Edible Oil,90,156
+165,Atta,151,70
+166,Edible Oil,80,48
+167,Personal Care,34,225
+168,Personal Care,121,59
+169,Pulses,199,60
+170,Personal Care,51,233
+171,Rice,30,30
+172,Beverages,162,170
+173,Sugar,262,20
+174,Edible Oil,41,65
+175,Beverages,75,120
+176,Snacks,63,168
+177,Atta,107,109
+178,Rice,247,129
+179,Home Care,102,183
+180,Edible Oil,278,201
+181,Beverages,76,234
+182,Atta,150,76
+183,Pulses,243,20
+184,Rice,268,82
+185,Rice,85,201
+186,Pulses,136,74
+187,Home Care,77,134
+188,Sugar,90,187
+189,Pulses,55,162
+190,Rice,286,168
+191,Rice,37,194
+192,Beverages,142,220
+193,Personal Care,282,72
+194,Home Care,209,156
+195,Atta,236,221
+196,Pulses,156,199
+197,Atta,85,76
+198,Pulses,243,136
+199,Snacks,43,173
+200,Rice,57,188
+201,Personal Care,107,54
+202,Beverages,245,82
+203,Personal Care,183,44
+204,Personal Care,43,109
+205,Personal Care,216,94
+206,Atta,36,57
+207,Pulses,32,149
+208,Dairy,140,154
+209,Snacks,267,229
+210,Edible Oil,268,238
+211,Personal Care,256,181
+212,Sugar,44,110
+213,Atta,221,36
+214,Home Care,148,147
+215,Beverages,57,190
+216,Edible Oil,231,206
+217,Dairy,68,127
+218,Sugar,260,198
+219,Dairy,115,201
+220,Edible Oil,155,171
+221,Personal Care,54,44
+222,Sugar,174,218
+223,Dairy,42,199
+224,Beverages,241,217
+225,Pulses,54,107
+226,Rice,97,180
+227,Pulses,96,196
+228,Edible Oil,262,48
+229,Atta,138,82
+230,Rice,175,169
+231,Snacks,140,173
+232,Beverages,257,175
+233,Snacks,140,133
+234,Sugar,63,232
+235,Rice,140,68
+236,Snacks,293,218
+237,Snacks,265,100
+238,Dairy,112,103
+239,Pulses,71,124
+240,Dairy,130,196
+241,Rice,35,167
+242,Rice,209,137
+243,Edible Oil,255,105
+244,Dairy,258,239
+245,Biscuits,179,82
+246,Home Care,227,208
+247,Pulses,99,123
+248,Rice,141,68
+249,Edible Oil,33,90
+250,Dairy,124,20
+251,Pulses,181,243
+252,Dairy,166,160
+253,Snacks,276,241
+254,Edible Oil,272,234
+255,Pulses,60,198
+256,Personal Care,69,142
+257,Sugar,258,203
+258,Sugar,65,230
+259,Pulses,252,81
+260,Dairy,35,51
+261,Edible Oil,249,177
+262,Home Care,104,48
+263,Sugar,33,68
+264,Edible Oil,163,192
+265,Sugar,147,240
+266,Snacks,123,49
+267,Dairy,91,163
+268,Snacks,223,187
+269,Sugar,232,38
+270,Personal Care,55,37
+271,Personal Care,202,20
+272,Snacks,162,97
+273,Personal Care,147,134
+274,Sugar,241,194
+275,Pulses,254,213
+276,Snacks,49,239
+277,Home Care,142,132
+278,Home Care,169,133
+279,Atta,76,241
+280,Dairy,30,185
+281,Personal Care,119,198
+282,Personal Care,171,82
+283,Rice,67,151
+284,Biscuits,168,148
+285,Snacks,288,27
+286,Beverages,190,176
+287,Personal Care,207,74
+288,Dairy,39,122
+289,Atta,290,150
+290,Home Care,167,51
+291,Personal Care,201,29
+292,Atta,42,221
+293,Sugar,197,230
+294,Sugar,159,129
+295,Biscuits,113,181
+296,Pulses,130,143
+297,Beverages,294,244
+298,Rice,67,106
+299,Biscuits,123,74
+300,Edible Oil,124,239

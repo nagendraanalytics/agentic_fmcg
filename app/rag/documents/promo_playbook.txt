@@ -1,0 +1,5 @@
+Promotions require safety stock uplift.
+Light promo: +20%
+Medium promo: +50%
+Festival promo: +100%
+Inventory must be locked 5 days before promotion.

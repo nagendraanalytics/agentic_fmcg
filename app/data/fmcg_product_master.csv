@@ -1,0 +1,301 @@
+product_id,product_name,brand,manufacturer,category,sub_category,pack_size,uom,mrp,cost_price,gst_pct,is_private_label,shelf_life_days
+1,Pears Soap 500ml,Pears,HUL,Personal Care,Soap,500ml,kg/ml,208,149,12,0,394
+2,Parle Cream Biscuit 1kg,Parle,Parle Products,Biscuits,Cream Biscuit,1kg,kg/ml,171,124,5,1,523
+3,Lays Namkeen 200g,Lays,PepsiCo,Snacks,Namkeen,200g,kg/ml,211,168,5,1,493
+4,Amul Milk 100g,Amul,GCMMF,Dairy,Milk,100g,kg/ml,78,53,18,1,423
+5,Vim Detergent Powder 2kg,Vim,HUL,Home Care,Detergent Powder,2kg,kg/ml,326,239,5,0,453
+6,Lays Chips 200g,Lays,PepsiCo,Snacks,Chips,200g,kg/ml,284,171,12,1,271
+7,Lux Toothpaste 500ml,Lux,HUL,Personal Care,Toothpaste,500ml,kg/ml,54,42,12,1,567
+8,Dhara Palm Oil 5kg,Dhara,GCMMF,Edible Oil,Palm Oil,5kg,kg/ml,125,89,5,0,581
+9,Dhara Palm Oil 1kg,Dhara,GCMMF,Edible Oil,Palm Oil,1kg,kg/ml,289,215,18,1,641
+10,Dove Soap 500ml,Dove,HUL,Personal Care,Soap,500ml,kg/ml,232,157,12,0,232
+11,Surf Excel Dishwash Bar 1L,Surf Excel,HUL,Home Care,Dishwash Bar,1L,kg/ml,176,133,5,0,700
+12,Vim Detergent Powder 500g,Vim,HUL,Home Care,Detergent Powder,500g,kg/ml,100,74,18,0,558
+13,Real Juice 1L,Real,Dabur,Beverages,Juice,1L,kg/ml,47,36,12,0,227
+14,Dove Toothpaste 500ml,Dove,HUL,Personal Care,Toothpaste,500ml,kg/ml,312,232,12,0,641
+15,Parle Glucose Biscuit 200ml,Parle,Parle Products,Biscuits,Glucose Biscuit,200ml,kg/ml,274,178,18,0,386
+16,Dove Shampoo 500g,Dove,HUL,Personal Care,Shampoo,500g,kg/ml,82,63,5,1,275
+17,Bingo Namkeen 200ml,Bingo,ITC,Snacks,Namkeen,200ml,kg/ml,250,170,18,0,215
+18,Real Energy Drink 500g,Real,Dabur,Beverages,Energy Drink,500g,kg/ml,105,81,12,0,207
+19,Lays Namkeen 200ml,Lays,PepsiCo,Snacks,Namkeen,200ml,kg/ml,250,195,5,0,462
+20,Amul Milk 1L,Amul,GCMMF,Dairy,Milk,1L,kg/ml,278,167,18,0,497
+21,Real Soft Drink 500ml,Real,Dabur,Beverages,Soft Drink,500ml,kg/ml,334,221,5,1,292
+22,Mother Dairy Milk 1kg,Mother Dairy,NDDB,Dairy,Milk,1kg,kg/ml,287,186,12,0,292
+23,Coca-Cola Soft Drink 100g,Coca-Cola,Coca-Cola India,Beverages,Soft Drink,100g,kg/ml,21,14,12,0,404
+24,Fortune Pulses 200g,Fortune,Adani Wilmar,Staples,Pulses,200g,kg/ml,72,50,12,1,426
+25,Haldirams Extruded Snacks 500ml,Haldirams,Haldirams,Snacks,Extruded Snacks,500ml,kg/ml,142,92,12,1,377
+26,Nandini Butter 100g,Nandini,KMF,Dairy,Butter,100g,kg/ml,220,146,12,1,528
+27,Sunfeast Cream Biscuit 500g,Sunfeast,ITC,Biscuits,Cream Biscuit,500g,kg/ml,166,111,18,1,668
+28,Aashirvaad Atta 1L,Aashirvaad,ITC,Staples,Atta,1L,kg/ml,170,120,12,0,442
+29,Bingo Namkeen 1kg,Bingo,ITC,Snacks,Namkeen,1kg,kg/ml,79,51,5,1,433
+30,Bingo Chips 200ml,Bingo,ITC,Snacks,Chips,200ml,kg/ml,28,18,18,1,387
+31,Parle Marie Biscuit 500ml,Parle,Parle Products,Biscuits,Marie Biscuit,500ml,kg/ml,135,83,12,1,433
+32,Parle Marie Biscuit 500g,Parle,Parle Products,Biscuits,Marie Biscuit,500g,kg/ml,172,103,12,1,342
+33,Surf Excel Detergent Powder 1kg,Surf Excel,HUL,Home Care,Detergent Powder,1kg,kg/ml,180,108,12,0,683
+34,Vim Floor Cleaner 100g,Vim,HUL,Home Care,Floor Cleaner,100g,kg/ml,147,104,18,0,649
+35,Dove Shampoo 5kg,Dove,HUL,Personal Care,Shampoo,5kg,kg/ml,249,168,12,1,462
+36,Parle Marie Biscuit 100g,Parle,Parle Products,Biscuits,Marie Biscuit,100g,kg/ml,303,222,5,0,695
+37,Parle Glucose Biscuit 2kg,Parle,Parle Products,Biscuits,Glucose Biscuit,2kg,kg/ml,25,16,5,0,459
+38,Pepsi Soft Drink 2kg,Pepsi,PepsiCo,Beverages,Soft Drink,2kg,kg/ml,114,90,5,1,370
+39,Real Soft Drink 100g,Real,Dabur,Beverages,Soft Drink,100g,kg/ml,275,191,12,0,502
+40,Rin Dishwash Bar 5kg,Rin,HUL,Home Care,Dishwash Bar,5kg,kg/ml,170,106,18,1,565
+41,Fortune Sunflower Oil 1L,Fortune,Adani Wilmar,Edible Oil,Sunflower Oil,1L,kg/ml,318,235,18,0,717
+42,Parle Marie Biscuit 500ml,Parle,Parle Products,Biscuits,Marie Biscuit,500ml,kg/ml,32,19,18,0,215
+43,Pepsi Soft Drink 500g,Pepsi,PepsiCo,Beverages,Soft Drink,500g,kg/ml,162,109,12,1,230
+44,Tata Atta 5kg,Tata,Tata Consumer,Staples,Atta,5kg,kg/ml,333,257,5,1,233
+45,Parle Glucose Biscuit 500ml,Parle,Parle Products,Biscuits,Glucose Biscuit,500ml,kg/ml,72,47,5,0,375
+46,Mother Dairy Milk 500g,Mother Dairy,NDDB,Dairy,Milk,500g,kg/ml,330,207,5,1,285
+47,Amul Butter 500ml,Amul,GCMMF,Dairy,Butter,500ml,kg/ml,338,232,12,0,525
+48,Coca-Cola Juice 200ml,Coca-Cola,Coca-Cola India,Beverages,Juice,200ml,kg/ml,146,107,5,0,237
+49,Saffola Sunflower Oil 200g,Saffola,Marico,Edible Oil,Sunflower Oil,200g,kg/ml,115,81,5,1,416
+50,Coca-Cola Soft Drink 200ml,Coca-Cola,Coca-Cola India,Beverages,Soft Drink,200ml,kg/ml,211,149,12,0,426
+51,Sunfeast Marie Biscuit 2kg,Sunfeast,ITC,Biscuits,Marie Biscuit,2kg,kg/ml,105,63,12,1,248
+52,Dove Soap 1kg,Dove,HUL,Personal Care,Soap,1kg,kg/ml,223,134,12,1,520
+53,Dove Soap 2kg,Dove,HUL,Personal Care,Soap,2kg,kg/ml,42,25,12,0,279
+54,Dhara Groundnut Oil 500g,Dhara,GCMMF,Edible Oil,Groundnut Oil,500g,kg/ml,115,88,5,0,695
+55,Rin Floor Cleaner 100g,Rin,HUL,Home Care,Floor Cleaner,100g,kg/ml,179,141,12,0,559
+56,Aashirvaad Rice 500g,Aashirvaad,ITC,Staples,Rice,500g,kg/ml,120,87,5,0,347
+57,Fortune Groundnut Oil 200g,Fortune,Adani Wilmar,Edible Oil,Groundnut Oil,200g,kg/ml,272,168,18,0,269
+58,Rin Detergent Powder 200g,Rin,HUL,Home Care,Detergent Powder,200g,kg/ml,134,87,12,0,672
+59,Parle Glucose Biscuit 2kg,Parle,Parle Products,Biscuits,Glucose Biscuit,2kg,kg/ml,268,190,5,0,371
+60,Sunfeast Glucose Biscuit 1kg,Sunfeast,ITC,Biscuits,Glucose Biscuit,1kg,kg/ml,115,76,12,1,216
+61,Haldirams Chips 200ml,Haldirams,Haldirams,Snacks,Chips,200ml,kg/ml,236,152,12,0,241
+62,Lays Chips 500g,Lays,PepsiCo,Snacks,Chips,500g,kg/ml,196,119,5,0,255
+63,Fortune Sugar 1kg,Fortune,Adani Wilmar,Staples,Sugar,1kg,kg/ml,163,112,18,1,204
+64,Bingo Extruded Snacks 1kg,Bingo,ITC,Snacks,Extruded Snacks,1kg,kg/ml,72,54,5,0,288
+65,Pepsi Juice 200ml,Pepsi,PepsiCo,Beverages,Juice,200ml,kg/ml,242,147,18,0,414
+66,Sunfeast Marie Biscuit 1L,Sunfeast,ITC,Biscuits,Marie Biscuit,1L,kg/ml,93,71,5,0,409
+67,Lux Shampoo 500ml,Lux,HUL,Personal Care,Shampoo,500ml,kg/ml,189,128,18,1,373
+68,Coca-Cola Soft Drink 5kg,Coca-Cola,Coca-Cola India,Beverages,Soft Drink,5kg,kg/ml,155,104,5,1,679
+69,Aashirvaad Rice 1kg,Aashirvaad,ITC,Staples,Rice,1kg,kg/ml,311,210,18,0,624
+70,Haldirams Namkeen 500g,Haldirams,Haldirams,Snacks,Namkeen,500g,kg/ml,58,39,5,0,399
+71,Amul Curd 1L,Amul,GCMMF,Dairy,Curd,1L,kg/ml,20,14,12,0,370
+72,Bingo Chips 500ml,Bingo,ITC,Snacks,Chips,500ml,kg/ml,136,107,5,1,352
+73,Coca-Cola Energy Drink 5kg,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,5kg,kg/ml,232,185,5,1,406
+74,Britannia Glucose Biscuit 1L,Britannia,Britannia Industries,Biscuits,Glucose Biscuit,1L,kg/ml,324,239,18,0,552
+75,Nandini Curd 200ml,Nandini,KMF,Dairy,Curd,200ml,kg/ml,31,24,12,1,587
+76,Lays Chips 1kg,Lays,PepsiCo,Snacks,Chips,1kg,kg/ml,109,73,12,1,220
+77,Lays Extruded Snacks 100g,Lays,PepsiCo,Snacks,Extruded Snacks,100g,kg/ml,220,145,5,1,432
+78,Nandini Curd 2kg,Nandini,KMF,Dairy,Curd,2kg,kg/ml,322,252,12,1,421
+79,Parle Glucose Biscuit 200ml,Parle,Parle Products,Biscuits,Glucose Biscuit,200ml,kg/ml,308,232,12,1,418
+80,Aashirvaad Pulses 1L,Aashirvaad,ITC,Staples,Pulses,1L,kg/ml,334,256,5,0,284
+81,Parle Cream Biscuit 2kg,Parle,Parle Products,Biscuits,Cream Biscuit,2kg,kg/ml,330,255,5,0,616
+82,Lux Soap 2kg,Lux,HUL,Personal Care,Soap,2kg,kg/ml,221,170,5,0,257
+83,Tata Rice 1kg,Tata,Tata Consumer,Staples,Rice,1kg,kg/ml,307,187,18,1,333
+84,Dhara Palm Oil 5kg,Dhara,GCMMF,Edible Oil,Palm Oil,5kg,kg/ml,278,195,5,1,415
+85,Pepsi Juice 1L,Pepsi,PepsiCo,Beverages,Juice,1L,kg/ml,131,91,18,0,408
+86,Pepsi Juice 500g,Pepsi,PepsiCo,Beverages,Juice,500g,kg/ml,122,76,12,1,485
+87,Dhara Palm Oil 500g,Dhara,GCMMF,Edible Oil,Palm Oil,500g,kg/ml,327,232,5,1,514
+88,Haldirams Namkeen 500g,Haldirams,Haldirams,Snacks,Namkeen,500g,kg/ml,100,78,12,1,580
+89,Fortune Sunflower Oil 200g,Fortune,Adani Wilmar,Edible Oil,Sunflower Oil,200g,kg/ml,281,196,5,1,222
+90,Vim Floor Cleaner 1L,Vim,HUL,Home Care,Floor Cleaner,1L,kg/ml,170,106,18,0,553
+91,Vim Detergent Powder 500g,Vim,HUL,Home Care,Detergent Powder,500g,kg/ml,174,127,12,0,230
+92,Parle Glucose Biscuit 200g,Parle,Parle Products,Biscuits,Glucose Biscuit,200g,kg/ml,111,74,12,0,692
+93,Pepsi Soft Drink 200g,Pepsi,PepsiCo,Beverages,Soft Drink,200g,kg/ml,97,64,18,0,428
+94,Dove Soap 500ml,Dove,HUL,Personal Care,Soap,500ml,kg/ml,126,98,5,0,205
+95,Bingo Chips 500g,Bingo,ITC,Snacks,Chips,500g,kg/ml,272,216,18,0,235
+96,Mother Dairy Curd 200ml,Mother Dairy,NDDB,Dairy,Curd,200ml,kg/ml,97,67,5,1,705
+97,Sunfeast Cream Biscuit 500g,Sunfeast,ITC,Biscuits,Cream Biscuit,500g,kg/ml,130,99,18,0,687
+98,Pepsi Juice 5kg,Pepsi,PepsiCo,Beverages,Juice,5kg,kg/ml,246,167,5,0,664
+99,Haldirams Namkeen 1L,Haldirams,Haldirams,Snacks,Namkeen,1L,kg/ml,292,187,12,1,716
+100,Aashirvaad Salt 1kg,Aashirvaad,ITC,Staples,Salt,1kg,kg/ml,86,62,12,0,407
+101,Dove Shampoo 500ml,Dove,HUL,Personal Care,Shampoo,500ml,kg/ml,255,159,5,0,697
+102,Lays Namkeen 500ml,Lays,PepsiCo,Snacks,Namkeen,500ml,kg/ml,334,266,5,0,468
+103,Coca-Cola Juice 5kg,Coca-Cola,Coca-Cola India,Beverages,Juice,5kg,kg/ml,89,57,12,0,625
+104,Nandini Curd 500ml,Nandini,KMF,Dairy,Curd,500ml,kg/ml,330,253,18,0,219
+105,Pepsi Energy Drink 200g,Pepsi,PepsiCo,Beverages,Energy Drink,200g,kg/ml,239,187,18,1,297
+106,Fortune Pulses 1L,Fortune,Adani Wilmar,Staples,Pulses,1L,kg/ml,213,151,12,0,352
+107,Lays Chips 5kg,Lays,PepsiCo,Snacks,Chips,5kg,kg/ml,343,234,5,1,292
+108,Bingo Extruded Snacks 5kg,Bingo,ITC,Snacks,Extruded Snacks,5kg,kg/ml,312,218,18,1,438
+109,Fortune Atta 2kg,Fortune,Adani Wilmar,Staples,Atta,2kg,kg/ml,157,125,5,1,500
+110,Lux Soap 100g,Lux,HUL,Personal Care,Soap,100g,kg/ml,284,204,12,0,598
+111,Amul Butter 2kg,Amul,GCMMF,Dairy,Butter,2kg,kg/ml,337,252,12,1,555
+112,Britannia Glucose Biscuit 500g,Britannia,Britannia Industries,Biscuits,Glucose Biscuit,500g,kg/ml,54,42,12,1,528
+113,Surf Excel Floor Cleaner 2kg,Surf Excel,HUL,Home Care,Floor Cleaner,2kg,kg/ml,289,219,18,0,344
+114,Real Energy Drink 1kg,Real,Dabur,Beverages,Energy Drink,1kg,kg/ml,108,83,5,1,475
+115,Rin Floor Cleaner 500g,Rin,HUL,Home Care,Floor Cleaner,500g,kg/ml,144,95,18,0,322
+116,Aashirvaad Rice 100g,Aashirvaad,ITC,Staples,Rice,100g,kg/ml,328,256,18,0,377
+117,Nandini Butter 500g,Nandini,KMF,Dairy,Butter,500g,kg/ml,61,38,18,0,468
+118,Haldirams Namkeen 1kg,Haldirams,Haldirams,Snacks,Namkeen,1kg,kg/ml,176,110,5,0,590
+119,Dove Soap 1kg,Dove,HUL,Personal Care,Soap,1kg,kg/ml,105,77,5,0,297
+120,Nandini Milk 1kg,Nandini,KMF,Dairy,Milk,1kg,kg/ml,235,169,18,0,440
+121,Coca-Cola Energy Drink 200g,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,200g,kg/ml,114,82,12,0,462
+122,Pepsi Energy Drink 500ml,Pepsi,PepsiCo,Beverages,Energy Drink,500ml,kg/ml,57,36,18,0,525
+123,Mother Dairy Butter 500ml,Mother Dairy,NDDB,Dairy,Butter,500ml,kg/ml,229,165,18,1,639
+124,Bingo Chips 500ml,Bingo,ITC,Snacks,Chips,500ml,kg/ml,146,92,18,1,230
+125,Coca-Cola Juice 5kg,Coca-Cola,Coca-Cola India,Beverages,Juice,5kg,kg/ml,286,197,12,0,584
+126,Dhara Palm Oil 200ml,Dhara,GCMMF,Edible Oil,Palm Oil,200ml,kg/ml,332,221,12,0,550
+127,Surf Excel Floor Cleaner 1L,Surf Excel,HUL,Home Care,Floor Cleaner,1L,kg/ml,328,218,5,0,423
+128,Tata Atta 5kg,Tata,Tata Consumer,Staples,Atta,5kg,kg/ml,229,159,18,0,358
+129,Nandini Milk 1kg,Nandini,KMF,Dairy,Milk,1kg,kg/ml,217,131,5,0,464
+130,Dove Toothpaste 200g,Dove,HUL,Personal Care,Toothpaste,200g,kg/ml,68,43,5,0,327
+131,Nandini Curd 500ml,Nandini,KMF,Dairy,Curd,500ml,kg/ml,68,44,5,1,394
+132,Sunfeast Cream Biscuit 100g,Sunfeast,ITC,Biscuits,Cream Biscuit,100g,kg/ml,305,234,18,1,550
+133,Dove Shampoo 5kg,Dove,HUL,Personal Care,Shampoo,5kg,kg/ml,132,89,12,0,443
+134,Real Energy Drink 500g,Real,Dabur,Beverages,Energy Drink,500g,kg/ml,307,200,18,1,341
+135,Haldirams Chips 200ml,Haldirams,Haldirams,Snacks,Chips,200ml,kg/ml,307,228,5,1,492
+136,Pears Toothpaste 500ml,Pears,HUL,Personal Care,Toothpaste,500ml,kg/ml,73,48,5,0,230
+137,Tata Sugar 500ml,Tata,Tata Consumer,Staples,Sugar,500ml,kg/ml,310,201,12,1,299
+138,Amul Butter 5kg,Amul,GCMMF,Dairy,Butter,5kg,kg/ml,242,160,12,0,509
+139,Pears Soap 2kg,Pears,HUL,Personal Care,Soap,2kg,kg/ml,166,103,18,1,464
+140,Lays Namkeen 100g,Lays,PepsiCo,Snacks,Namkeen,100g,kg/ml,322,233,18,1,565
+141,Sunfeast Cream Biscuit 1kg,Sunfeast,ITC,Biscuits,Cream Biscuit,1kg,kg/ml,280,187,12,0,405
+142,Pepsi Energy Drink 5kg,Pepsi,PepsiCo,Beverages,Energy Drink,5kg,kg/ml,299,186,12,1,238
+143,Amul Butter 200g,Amul,GCMMF,Dairy,Butter,200g,kg/ml,134,94,5,1,416
+144,Fortune Rice 5kg,Fortune,Adani Wilmar,Staples,Rice,5kg,kg/ml,254,173,12,1,208
+145,Real Juice 2kg,Real,Dabur,Beverages,Juice,2kg,kg/ml,94,71,5,1,535
+146,Aashirvaad Atta 2kg,Aashirvaad,ITC,Staples,Atta,2kg,kg/ml,172,120,18,0,521
+147,Coca-Cola Energy Drink 5kg,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,5kg,kg/ml,238,171,5,0,634
+148,Fortune Sunflower Oil 2kg,Fortune,Adani Wilmar,Edible Oil,Sunflower Oil,2kg,kg/ml,209,147,12,1,542
+149,Aashirvaad Pulses 1kg,Aashirvaad,ITC,Staples,Pulses,1kg,kg/ml,301,184,18,1,190
+150,Vim Detergent Powder 200ml,Vim,HUL,Home Care,Detergent Powder,200ml,kg/ml,251,179,12,0,585
+151,Pepsi Soft Drink 1kg,Pepsi,PepsiCo,Beverages,Soft Drink,1kg,kg/ml,258,168,18,1,670
+152,Aashirvaad Pulses 200g,Aashirvaad,ITC,Staples,Pulses,200g,kg/ml,220,165,5,0,475
+153,Aashirvaad Rice 500ml,Aashirvaad,ITC,Staples,Rice,500ml,kg/ml,61,42,18,0,677
+154,Pepsi Energy Drink 5kg,Pepsi,PepsiCo,Beverages,Energy Drink,5kg,kg/ml,31,20,18,0,196
+155,Saffola Sunflower Oil 100g,Saffola,Marico,Edible Oil,Sunflower Oil,100g,kg/ml,322,198,18,1,260
+156,Dove Soap 5kg,Dove,HUL,Personal Care,Soap,5kg,kg/ml,219,142,5,1,668
+157,Real Juice 200ml,Real,Dabur,Beverages,Juice,200ml,kg/ml,301,214,12,0,514
+158,Coca-Cola Energy Drink 500g,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,500g,kg/ml,195,121,18,0,656
+159,Dhara Groundnut Oil 1kg,Dhara,GCMMF,Edible Oil,Groundnut Oil,1kg,kg/ml,122,74,18,1,367
+160,Real Juice 2kg,Real,Dabur,Beverages,Juice,2kg,kg/ml,190,126,18,0,543
+161,Lux Toothpaste 1kg,Lux,HUL,Personal Care,Toothpaste,1kg,kg/ml,229,161,5,1,287
+162,Nandini Curd 500g,Nandini,KMF,Dairy,Curd,500g,kg/ml,189,150,18,0,320
+163,Saffola Groundnut Oil 200ml,Saffola,Marico,Edible Oil,Groundnut Oil,200ml,kg/ml,321,215,12,0,656
+164,Amul Milk 500ml,Amul,GCMMF,Dairy,Milk,500ml,kg/ml,255,203,12,1,538
+165,Bingo Chips 100g,Bingo,ITC,Snacks,Chips,100g,kg/ml,22,15,12,1,503
+166,Fortune Palm Oil 1L,Fortune,Adani Wilmar,Edible Oil,Palm Oil,1L,kg/ml,212,165,18,0,578
+167,Tata Rice 2kg,Tata,Tata Consumer,Staples,Rice,2kg,kg/ml,80,52,12,0,619
+168,Pears Shampoo 200g,Pears,HUL,Personal Care,Shampoo,200g,kg/ml,172,128,18,1,489
+169,Coca-Cola Energy Drink 200g,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,200g,kg/ml,332,213,5,1,438
+170,Surf Excel Dishwash Bar 2kg,Surf Excel,HUL,Home Care,Dishwash Bar,2kg,kg/ml,73,57,5,0,278
+171,Bingo Namkeen 500g,Bingo,ITC,Snacks,Namkeen,500g,kg/ml,197,137,5,1,182
+172,Rin Floor Cleaner 500ml,Rin,HUL,Home Care,Floor Cleaner,500ml,kg/ml,108,77,12,0,446
+173,Tata Pulses 1L,Tata,Tata Consumer,Staples,Pulses,1L,kg/ml,214,169,12,0,642
+174,Surf Excel Detergent Powder 200g,Surf Excel,HUL,Home Care,Detergent Powder,200g,kg/ml,143,96,18,0,355
+175,Dhara Palm Oil 2kg,Dhara,GCMMF,Edible Oil,Palm Oil,2kg,kg/ml,335,208,5,0,293
+176,Rin Detergent Powder 500g,Rin,HUL,Home Care,Detergent Powder,500g,kg/ml,205,146,12,1,468
+177,Amul Butter 1L,Amul,GCMMF,Dairy,Butter,1L,kg/ml,288,221,5,0,349
+178,Haldirams Extruded Snacks 5kg,Haldirams,Haldirams,Snacks,Extruded Snacks,5kg,kg/ml,207,130,18,0,210
+179,Dove Shampoo 2kg,Dove,HUL,Personal Care,Shampoo,2kg,kg/ml,177,138,12,1,437
+180,Amul Milk 200ml,Amul,GCMMF,Dairy,Milk,200ml,kg/ml,243,149,18,0,412
+181,Aashirvaad Atta 500g,Aashirvaad,ITC,Staples,Atta,500g,kg/ml,345,226,18,1,412
+182,Vim Dishwash Bar 2kg,Vim,HUL,Home Care,Dishwash Bar,2kg,kg/ml,297,233,12,1,371
+183,Fortune Sugar 100g,Fortune,Adani Wilmar,Staples,Sugar,100g,kg/ml,212,129,18,1,485
+184,Amul Butter 1kg,Amul,GCMMF,Dairy,Butter,1kg,kg/ml,270,169,5,1,186
+185,Coca-Cola Energy Drink 5kg,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,5kg,kg/ml,98,74,18,1,717
+186,Dhara Palm Oil 1kg,Dhara,GCMMF,Edible Oil,Palm Oil,1kg,kg/ml,118,81,18,0,336
+187,Sunfeast Marie Biscuit 1kg,Sunfeast,ITC,Biscuits,Marie Biscuit,1kg,kg/ml,41,25,18,0,561
+188,Bingo Chips 2kg,Bingo,ITC,Snacks,Chips,2kg,kg/ml,103,69,5,0,566
+189,Britannia Glucose Biscuit 5kg,Britannia,Britannia Industries,Biscuits,Glucose Biscuit,5kg,kg/ml,34,25,18,1,703
+190,Saffola Groundnut Oil 500ml,Saffola,Marico,Edible Oil,Groundnut Oil,500ml,kg/ml,79,50,5,0,488
+191,Vim Floor Cleaner 200g,Vim,HUL,Home Care,Floor Cleaner,200g,kg/ml,218,158,5,1,557
+192,Sunfeast Marie Biscuit 1L,Sunfeast,ITC,Biscuits,Marie Biscuit,1L,kg/ml,241,150,5,1,415
+193,Lays Chips 1L,Lays,PepsiCo,Snacks,Chips,1L,kg/ml,338,246,5,0,565
+194,Surf Excel Floor Cleaner 100g,Surf Excel,HUL,Home Care,Floor Cleaner,100g,kg/ml,91,63,12,1,517
+195,Nandini Butter 5kg,Nandini,KMF,Dairy,Butter,5kg,kg/ml,51,37,5,0,281
+196,Fortune Pulses 500g,Fortune,Adani Wilmar,Staples,Pulses,500g,kg/ml,107,67,5,1,642
+197,Rin Dishwash Bar 1kg,Rin,HUL,Home Care,Dishwash Bar,1kg,kg/ml,180,128,12,1,181
+198,Aashirvaad Rice 100g,Aashirvaad,ITC,Staples,Rice,100g,kg/ml,96,59,12,0,373
+199,Mother Dairy Butter 200g,Mother Dairy,NDDB,Dairy,Butter,200g,kg/ml,162,103,18,1,484
+200,Surf Excel Floor Cleaner 500g,Surf Excel,HUL,Home Care,Floor Cleaner,500g,kg/ml,142,86,12,0,538
+201,Dove Soap 500ml,Dove,HUL,Personal Care,Soap,500ml,kg/ml,347,257,12,1,497
+202,Pears Toothpaste 200ml,Pears,HUL,Personal Care,Toothpaste,200ml,kg/ml,103,73,12,1,201
+203,Saffola Groundnut Oil 1L,Saffola,Marico,Edible Oil,Groundnut Oil,1L,kg/ml,207,154,18,1,191
+204,Lux Soap 500g,Lux,HUL,Personal Care,Soap,500g,kg/ml,141,93,12,1,488
+205,Dove Toothpaste 5kg,Dove,HUL,Personal Care,Toothpaste,5kg,kg/ml,230,148,5,0,214
+206,Pepsi Soft Drink 100g,Pepsi,PepsiCo,Beverages,Soft Drink,100g,kg/ml,324,250,18,1,203
+207,Lays Chips 1kg,Lays,PepsiCo,Snacks,Chips,1kg,kg/ml,171,121,18,1,599
+208,Dhara Sunflower Oil 1kg,Dhara,GCMMF,Edible Oil,Sunflower Oil,1kg,kg/ml,85,61,12,0,550
+209,Fortune Palm Oil 500g,Fortune,Adani Wilmar,Edible Oil,Palm Oil,500g,kg/ml,256,177,5,0,699
+210,Haldirams Namkeen 200g,Haldirams,Haldirams,Snacks,Namkeen,200g,kg/ml,312,240,5,0,497
+211,Nandini Milk 500ml,Nandini,KMF,Dairy,Milk,500ml,kg/ml,250,167,12,0,324
+212,Parle Glucose Biscuit 200g,Parle,Parle Products,Biscuits,Glucose Biscuit,200g,kg/ml,182,133,18,0,603
+213,Haldirams Chips 500g,Haldirams,Haldirams,Snacks,Chips,500g,kg/ml,137,86,12,0,540
+214,Tata Salt 100g,Tata,Tata Consumer,Staples,Salt,100g,kg/ml,332,210,5,0,383
+215,Coca-Cola Soft Drink 500ml,Coca-Cola,Coca-Cola India,Beverages,Soft Drink,500ml,kg/ml,63,43,18,0,430
+216,Pepsi Juice 200g,Pepsi,PepsiCo,Beverages,Juice,200g,kg/ml,312,245,5,0,298
+217,Parle Marie Biscuit 2kg,Parle,Parle Products,Biscuits,Marie Biscuit,2kg,kg/ml,78,51,5,0,385
+218,Bingo Namkeen 200g,Bingo,ITC,Snacks,Namkeen,200g,kg/ml,235,173,12,1,396
+219,Fortune Sunflower Oil 200ml,Fortune,Adani Wilmar,Edible Oil,Sunflower Oil,200ml,kg/ml,242,157,18,1,607
+220,Mother Dairy Butter 1kg,Mother Dairy,NDDB,Dairy,Butter,1kg,kg/ml,253,188,12,0,308
+221,Dove Soap 2kg,Dove,HUL,Personal Care,Soap,2kg,kg/ml,105,68,5,0,298
+222,Dhara Groundnut Oil 200g,Dhara,GCMMF,Edible Oil,Groundnut Oil,200g,kg/ml,164,125,18,1,524
+223,Amul Milk 500g,Amul,GCMMF,Dairy,Milk,500g,kg/ml,306,223,5,1,248
+224,Fortune Atta 200g,Fortune,Adani Wilmar,Staples,Atta,200g,kg/ml,211,128,5,0,268
+225,Surf Excel Detergent Powder 2kg,Surf Excel,HUL,Home Care,Detergent Powder,2kg,kg/ml,96,63,18,1,560
+226,Mother Dairy Curd 500g,Mother Dairy,NDDB,Dairy,Curd,500g,kg/ml,101,78,18,0,544
+227,Britannia Glucose Biscuit 5kg,Britannia,Britannia Industries,Biscuits,Glucose Biscuit,5kg,kg/ml,108,71,5,1,322
+228,Coca-Cola Energy Drink 1L,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,1L,kg/ml,324,229,18,1,281
+229,Saffola Groundnut Oil 500ml,Saffola,Marico,Edible Oil,Groundnut Oil,500ml,kg/ml,129,93,12,1,182
+230,Pepsi Juice 5kg,Pepsi,PepsiCo,Beverages,Juice,5kg,kg/ml,136,103,5,1,312
+231,Saffola Sunflower Oil 1kg,Saffola,Marico,Edible Oil,Sunflower Oil,1kg,kg/ml,290,196,18,1,677
+232,Haldirams Extruded Snacks 2kg,Haldirams,Haldirams,Snacks,Extruded Snacks,2kg,kg/ml,126,75,18,0,303
+233,Pears Soap 500g,Pears,HUL,Personal Care,Soap,500g,kg/ml,290,185,5,1,513
+234,Pepsi Soft Drink 500g,Pepsi,PepsiCo,Beverages,Soft Drink,500g,kg/ml,155,102,12,1,181
+235,Fortune Salt 1L,Fortune,Adani Wilmar,Staples,Salt,1L,kg/ml,282,207,12,0,338
+236,Lux Toothpaste 500ml,Lux,HUL,Personal Care,Toothpaste,500ml,kg/ml,55,37,12,0,564
+237,Lays Chips 200ml,Lays,PepsiCo,Snacks,Chips,200ml,kg/ml,137,96,5,1,700
+238,Dove Shampoo 1L,Dove,HUL,Personal Care,Shampoo,1L,kg/ml,144,112,5,1,472
+239,Haldirams Namkeen 1kg,Haldirams,Haldirams,Snacks,Namkeen,1kg,kg/ml,79,58,5,1,618
+240,Saffola Sunflower Oil 100g,Saffola,Marico,Edible Oil,Sunflower Oil,100g,kg/ml,127,98,18,0,611
+241,Real Energy Drink 200ml,Real,Dabur,Beverages,Energy Drink,200ml,kg/ml,179,130,5,1,256
+242,Pepsi Soft Drink 1L,Pepsi,PepsiCo,Beverages,Soft Drink,1L,kg/ml,277,181,18,0,553
+243,Coca-Cola Energy Drink 100g,Coca-Cola,Coca-Cola India,Beverages,Energy Drink,100g,kg/ml,299,187,18,1,397
+244,Nandini Curd 1kg,Nandini,KMF,Dairy,Curd,1kg,kg/ml,251,182,18,0,532
+245,Parle Marie Biscuit 200ml,Parle,Parle Products,Biscuits,Marie Biscuit,200ml,kg/ml,215,148,12,1,696
+246,Bingo Extruded Snacks 500ml,Bingo,ITC,Snacks,Extruded Snacks,500ml,kg/ml,249,178,18,1,560
+247,Dhara Groundnut Oil 5kg,Dhara,GCMMF,Edible Oil,Groundnut Oil,5kg,kg/ml,149,119,12,1,388
+248,Sunfeast Marie Biscuit 1kg,Sunfeast,ITC,Biscuits,Marie Biscuit,1kg,kg/ml,283,202,12,1,632
+249,Real Soft Drink 1L,Real,Dabur,Beverages,Soft Drink,1L,kg/ml,330,233,12,1,234
+250,Vim Detergent Powder 200ml,Vim,HUL,Home Care,Detergent Powder,200ml,kg/ml,134,84,5,1,427
+251,Bingo Chips 2kg,Bingo,ITC,Snacks,Chips,2kg,kg/ml,103,74,12,1,340
+252,Pepsi Juice 1kg,Pepsi,PepsiCo,Beverages,Juice,1kg,kg/ml,170,110,12,0,520
+253,Fortune Groundnut Oil 1L,Fortune,Adani Wilmar,Edible Oil,Groundnut Oil,1L,kg/ml,342,232,18,1,375
+254,Dhara Groundnut Oil 500g,Dhara,GCMMF,Edible Oil,Groundnut Oil,500g,kg/ml,162,129,5,1,669
+255,Bingo Extruded Snacks 5kg,Bingo,ITC,Snacks,Extruded Snacks,5kg,kg/ml,101,73,12,1,641
+256,Nandini Butter 1kg,Nandini,KMF,Dairy,Butter,1kg,kg/ml,33,20,5,0,309
+257,Britannia Marie Biscuit 1kg,Britannia,Britannia Industries,Biscuits,Marie Biscuit,1kg,kg/ml,275,216,12,0,432
+258,Nandini Milk 100g,Nandini,KMF,Dairy,Milk,100g,kg/ml,129,100,12,0,615
+259,Parle Cream Biscuit 5kg,Parle,Parle Products,Biscuits,Cream Biscuit,5kg,kg/ml,44,32,12,1,716
+260,Lux Soap 1kg,Lux,HUL,Personal Care,Soap,1kg,kg/ml,165,108,18,1,222
+261,Nandini Curd 500g,Nandini,KMF,Dairy,Curd,500g,kg/ml,306,187,18,1,524
+262,Saffola Palm Oil 200g,Saffola,Marico,Edible Oil,Palm Oil,200g,kg/ml,272,196,18,0,262
+263,Aashirvaad Pulses 1L,Aashirvaad,ITC,Staples,Pulses,1L,kg/ml,175,115,18,0,259
+264,Vim Detergent Powder 500ml,Vim,HUL,Home Care,Detergent Powder,500ml,kg/ml,292,188,5,1,599
+265,Haldirams Namkeen 200g,Haldirams,Haldirams,Snacks,Namkeen,200g,kg/ml,82,62,18,1,662
+266,Dove Toothpaste 200ml,Dove,HUL,Personal Care,Toothpaste,200ml,kg/ml,248,167,5,1,362
+267,Saffola Palm Oil 2kg,Saffola,Marico,Edible Oil,Palm Oil,2kg,kg/ml,265,200,5,1,650
+268,Fortune Groundnut Oil 100g,Fortune,Adani Wilmar,Edible Oil,Groundnut Oil,100g,kg/ml,32,19,12,0,392
+269,Coca-Cola Juice 1kg,Coca-Cola,Coca-Cola India,Beverages,Juice,1kg,kg/ml,207,150,5,1,362
+270,Pepsi Juice 1kg,Pepsi,PepsiCo,Beverages,Juice,1kg,kg/ml,53,35,12,1,406
+271,Aashirvaad Salt 5kg,Aashirvaad,ITC,Staples,Salt,5kg,kg/ml,61,46,5,0,284
+272,Surf Excel Detergent Powder 1L,Surf Excel,HUL,Home Care,Detergent Powder,1L,kg/ml,148,112,5,0,189
+273,Fortune Palm Oil 200ml,Fortune,Adani Wilmar,Edible Oil,Palm Oil,200ml,kg/ml,309,209,12,1,258
+274,Tata Sugar 500ml,Tata,Tata Consumer,Staples,Sugar,500ml,kg/ml,192,120,5,0,280
+275,Surf Excel Detergent Powder 200ml,Surf Excel,HUL,Home Care,Detergent Powder,200ml,kg/ml,62,45,18,1,662
+276,Surf Excel Detergent Powder 1kg,Surf Excel,HUL,Home Care,Detergent Powder,1kg,kg/ml,296,200,18,1,407
+277,Sunfeast Cream Biscuit 200ml,Sunfeast,ITC,Biscuits,Cream Biscuit,200ml,kg/ml,47,31,12,0,529
+278,Mother Dairy Curd 100g,Mother Dairy,NDDB,Dairy,Curd,100g,kg/ml,242,183,5,0,642
+279,Fortune Groundnut Oil 1kg,Fortune,Adani Wilmar,Edible Oil,Groundnut Oil,1kg,kg/ml,343,258,5,0,557
+280,Pears Shampoo 200g,Pears,HUL,Personal Care,Shampoo,200g,kg/ml,285,216,18,1,553
+281,Real Soft Drink 200g,Real,Dabur,Beverages,Soft Drink,200g,kg/ml,30,18,5,1,581
+282,Lux Soap 500ml,Lux,HUL,Personal Care,Soap,500ml,kg/ml,334,237,12,0,593
+283,Haldirams Chips 100g,Haldirams,Haldirams,Snacks,Chips,100g,kg/ml,141,107,18,0,676
+284,Haldirams Chips 200g,Haldirams,Haldirams,Snacks,Chips,200g,kg/ml,168,126,5,1,481
+285,Vim Dishwash Bar 200ml,Vim,HUL,Home Care,Dishwash Bar,200ml,kg/ml,255,155,12,1,414
+286,Aashirvaad Sugar 200g,Aashirvaad,ITC,Staples,Sugar,200g,kg/ml,277,173,18,1,462
+287,Saffola Groundnut Oil 500g,Saffola,Marico,Edible Oil,Groundnut Oil,500g,kg/ml,107,71,12,0,600
+288,Real Soft Drink 5kg,Real,Dabur,Beverages,Soft Drink,5kg,kg/ml,38,23,12,0,287
+289,Lux Soap 500ml,Lux,HUL,Personal Care,Soap,500ml,kg/ml,205,123,5,1,440
+290,Sunfeast Glucose Biscuit 200g,Sunfeast,ITC,Biscuits,Glucose Biscuit,200g,kg/ml,29,21,12,0,245
+291,Aashirvaad Salt 1kg,Aashirvaad,ITC,Staples,Salt,1kg,kg/ml,105,80,12,1,191
+292,Fortune Rice 2kg,Fortune,Adani Wilmar,Staples,Rice,2kg,kg/ml,39,25,18,0,249
+293,Surf Excel Floor Cleaner 1kg,Surf Excel,HUL,Home Care,Floor Cleaner,1kg,kg/ml,130,89,12,1,406
+294,Dhara Sunflower Oil 2kg,Dhara,GCMMF,Edible Oil,Sunflower Oil,2kg,kg/ml,329,243,5,1,217
+295,Amul Milk 1kg,Amul,GCMMF,Dairy,Milk,1kg,kg/ml,292,209,5,1,694
+296,Rin Detergent Powder 200ml,Rin,HUL,Home Care,Detergent Powder,200ml,kg/ml,273,190,12,1,338
+297,Bingo Extruded Snacks 500g,Bingo,ITC,Snacks,Extruded Snacks,500g,kg/ml,171,114,12,1,296
+298,Lux Toothpaste 1kg,Lux,HUL,Personal Care,Toothpaste,1kg,kg/ml,202,150,5,1,292
+299,Sunfeast Cream Biscuit 1L,Sunfeast,ITC,Biscuits,Cream Biscuit,1L,kg/ml,137,99,5,1,439
+300,Haldirams Extruded Snacks 5kg,Haldirams,Haldirams,Snacks,Extruded Snacks,5kg,kg/ml,66,50,18,0,316

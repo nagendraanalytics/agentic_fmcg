@@ -1,0 +1,9 @@
+run in background:
+--------------------
+D:\agentic_fmcg_app\fmcg\Scripts\pythonw.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --log-level debug > D:\agentic_fmcg_app\ghost.log 2>&1
+
+netstat -ano | findstr :8000
+
+taskkill /PID 5200 /F
+
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload

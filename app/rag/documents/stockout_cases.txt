@@ -1,0 +1,6 @@
+Case: Oct-2022 Detergent Stockout
+Context: Promotion with 20% discount
+Issue: Forecast trained on suppressed demand
+Impact: ₹1.2 Cr lost revenue
+Fix: Added promo safety stock buffer of 1.5x
+Outcome: Stockouts reduced by 43%

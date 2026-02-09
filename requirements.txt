@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+openai
+pydantic
+pyyaml
+faiss-cpu
+langchain_community
+tiktoken
+scikit-learn==1.2.2
+joblib==1.3.2
+numpy>=1.23,<2.0
+pandas>=1.5
